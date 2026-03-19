@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Computer-Vision-Repository
-=======
+#Computer-Vision-Repository
 # 🎯 Real-Time Object Detection System
 
 A real-time object detection application powered by YOLOv8 and OpenCV that detects 80 everyday objects through your webcam.
@@ -17,4 +15,3 @@ A real-time object detection application powered by YOLOv8 and OpenCV that detec
 ### Requirements
 - Python 3.8+
 - Webcam
->>>>>>> 9cf4b49 (Added object detection file and updated README)
